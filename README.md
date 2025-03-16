@@ -1,5 +1,5 @@
 ## Hi there, I'm Tegar! 👋
-⭐ like to contribute in the field of technology.
+⭐ like to contribute in the field of technology. <br>
 ⭐ I'm not smart but I'm willing to learn. <br><br>
 - 🚀 I'm currently Working as a **Remote Worker UI Engineer** at **PT Angga Membangun Indonesia**.
 - 📖 I'm currently learning **HTML, CSS,Tailwind CSS, JavaScript, MERN Stack and PHP Laravel**.
